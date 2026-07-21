@@ -1,178 +1,241 @@
-# Hi 👋, I'm Mohammad Asif
+<div align="center">
 
-### 🚀 Aspiring DevOps Engineer | Cloud Enthusiast | Full Stack Developer
+# Hi 👋 I'm Mohammad Asif
 
-I'm an MCA student passionate about building scalable applications, automating deployments, and learning cloud-native technologies. I enjoy working with DevOps tools, containerization, CI/CD pipelines, and AWS while also developing full-stack web applications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Enthusiast;Building+Scalable+Cloud+Applications" />
 
----
+<img src="https://komarev.com/ghpvc/?username=asifaa8910-alt&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
-## 👨‍💻 About Me
-
-- 🎓 MCA Student at Lovely Professional University
-- 🌱 Currently learning **Advanced Kubernetes, Terraform, AWS & GitOps**
-- 💡 Interested in **Cloud Computing, DevOps, CI/CD, Infrastructure Automation**
-- 🔭 Building real-world DevOps and Full Stack projects
-- 🎯 Goal: Become a DevOps Engineer
-- ⚡ Fun Fact: I enjoy automating repetitive tasks and optimizing deployment workflows.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
-- Java
-- JavaScript
-- C++
-- SQL
+```yaml
+Name: Mohammad Asif
+Role: Aspiring DevOps Engineer
+Education: MCA @ Lovely Professional University
+Location: India
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+Currently Learning:
+  - Kubernetes
+  - Terraform
+  - AWS
+  - GitOps
+  - Helm
+
+Interested In:
+  - Cloud Computing
+  - CI/CD
+  - Infrastructure as Code
+  - Containerization
+  - Monitoring
+```
+
+---
+
+# ⚙️ DevOps Architecture
+
+```text
+                    GitHub
+                       │
+                Push / Pull Request
+                       │
+                 GitHub Webhook
+                       │
+                    Jenkins
+                       │
+        ┌──────────────┴──────────────┐
+        │                             │
+ Build React                   Build Node API
+        │                             │
+        └──────────────┬──────────────┘
+                       │
+               Docker Image Build
+                       │
+                 Docker Hub / AWS ECR
+                       │
+                Kubernetes Cluster
+                       │
+        ┌──────────────┴──────────────┐
+        │                             │
+   React Frontend              Express Backend
+        │                             │
+        └──────────────┬──────────────┘
+                       │
+                   MongoDB
+```
+
+---
+
+# 🚀 Tech Stack
+
+### Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,git,linux,bash"/>
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
+</p>
 
 ### Database
-- MongoDB
-- MySQL
 
-### DevOps & Cloud
-- Docker
-- Kubernetes
-- Jenkins
-- GitHub Actions
-- Git
-- Linux
-- Bash
-- AWS (EC2, EKS, ECR, IAM, S3, VPC, ALB)
-- Terraform
-- Nginx
-
-### Monitoring
-- Prometheus
-- Grafana
-
-### Tools
-- VS Code
-- Postman
-- Figma
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-## 📌 ExamProctor
-A secure online examination platform with automated deployment using DevOps practices.
+## 🚀 ExamProctor
 
-### Features
-- Role-Based Authentication
-- Online Exam Management
-- Real-Time Communication
-- Dockerized Application
-- Jenkins CI/CD Pipeline
-- Kubernetes Ready
-- REST API Architecture
+Secure Online Examination Platform
 
-**Tech Stack**
-- React
-- Node.js
-- Express
-- MongoDB
-- Docker
-- Jenkins
+✔ Dockerized Microservices
+
+✔ Jenkins CI/CD Pipeline
+
+✔ Role-Based Authentication
+
+✔ REST APIs
+
+✔ Kubernetes Ready
+
+✔ MongoDB
 
 ---
 
-## 📌 Letter Clinic
+## 🏥 Letter Clinic
 
-A healthcare management platform built using the MERN stack with scalable backend architecture.
+Healthcare Management Platform
 
-### Features
-- Patient Management
-- Doctor Dashboard
-- Appointment System
-- REST APIs
-- Docker Deployment
+✔ MERN Stack
 
----
+✔ Docker Compose
 
-## 📌 Spotify Clone
+✔ Secure Authentication
 
-A responsive Spotify-inspired music streaming interface developed using the MERN stack.
-
-### Features
-- Music Player UI
-- Playlist Management
-- Responsive Design
-- Modern User Interface
+✔ REST APIs
 
 ---
 
-## 📈 GitHub Statistics
+## 🎵 Spotify Clone
+
+Responsive Music Streaming Platform
+
+✔ React
+
+✔ Node.js
+
+✔ Express
+
+✔ MongoDB
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=asifaa8910-alt&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifaa8910-alt&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=asifaa8910-alt&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifaa8910-alt&theme=tokyo-night"/>
 
-## 🏆 Certifications
-
-- AWS Cloud (Add yours)
-- Docker (Add yours)
-- Kubernetes (Add yours)
+</p>
 
 ---
 
-## 🌱 Currently Exploring
+# 🛠 Current Focus
 
 - Kubernetes Production Deployments
-- AWS Architecture
-- Terraform Modules
-- GitOps using ArgoCD
-- Helm Charts
-- Monitoring & Logging
 - Infrastructure as Code
+- AWS Cloud Architecture
+- Jenkins Pipelines
+- GitHub Actions
+- Monitoring with Prometheus & Grafana
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Goals for 2026
 
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your.email@example.com
-
----
-
-## 📌 Quote
-
-> "Automation is good, so long as you know exactly where to put the machine."
+- ✅ Master Kubernetes
+- ✅ Earn AWS Certification
+- ✅ Learn GitOps with ArgoCD
+- ✅ Build Production DevOps Projects
+- ✅ Contribute to Open Source
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/asifaa8910-alt">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/linkedin.com/in/mohammad-asif786">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:asifaa8910@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/asifaa8910-alt/asifaa8910-alt/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Automate Everything. Monitor Everything. Improve Continuously."
+
+</div>
